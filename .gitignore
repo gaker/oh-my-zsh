@@ -2,6 +2,8 @@ locals.zsh
 log/.zsh_history
 projects.zsh
 custom/*
+!custom/gaker.zsh
+!custom/.zshrc
 !custom/example
 !custom/example.zsh
 cache
